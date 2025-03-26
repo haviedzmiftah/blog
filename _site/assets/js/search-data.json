@@ -1,16 +1,79 @@
 {"0": {
-    "doc": "Home",
-    "title": "Selamat datang di blog saya",
+    "doc": "Bahan Ajar",
+    "title": "Bahan Ajar",
     "content": " ",
-    "url": "/blog/#selamat-datang-di-blog-saya",
+    "url": "/blog/docs/bahan-ajar/",
     
-    "relUrl": "/#selamat-datang-di-blog-saya"
+    "relUrl": "/docs/bahan-ajar/"
   },"1": {
+    "doc": "Home",
+    "title": "Haviedz Miftah Blog",
+    "content": "ini blog saya masih belum ngerti harus disi apa . ",
+    "url": "/blog/#haviedz-miftah-blog",
+    
+    "relUrl": "/#haviedz-miftah-blog"
+  },"2": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/blog/",
     
     "relUrl": "/"
+  },"3": {
+    "doc": "Informatika",
+    "title": "Informatika",
+    "content": "Informatika adalah ilmu yang mempelajari konsep komputasi dan teknologi informasi . | Berfikir Komputasi | Teknoligi Informasi dan Komputasi | Sistem Komputer | Analisis Data | Jaringan Komputer dan Internet | Algoritma | Pemrograman | . ",
+    "url": "/blog/docs/informatika/",
+    
+    "relUrl": "/docs/informatika/"
+  },"4": {
+    "doc": "Informatika",
+    "title": "Berfikir Komputasi",
+    "content": "berfikir kompuasi, kita akan belajar bagaimana caranya menyelesaikan suatu masalah dengan efektif, efisien dan optimal . ",
+    "url": "/blog/docs/informatika/#berfikir-komputasi",
+    
+    "relUrl": "/docs/informatika/#berfikir-komputasi"
+  },"5": {
+    "doc": "Informatika",
+    "title": "Teknoligi Informasi dan Komputasi",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#teknoligi-informasi-dan-komputasi",
+    
+    "relUrl": "/docs/informatika/#teknoligi-informasi-dan-komputasi"
+  },"6": {
+    "doc": "Informatika",
+    "title": "Sistem Komputer",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#sistem-komputer",
+    
+    "relUrl": "/docs/informatika/#sistem-komputer"
+  },"7": {
+    "doc": "Informatika",
+    "title": "Analisis Data",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#analisis-data",
+    
+    "relUrl": "/docs/informatika/#analisis-data"
+  },"8": {
+    "doc": "Informatika",
+    "title": "Jaringan Komputer dan Internet",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#jaringan-komputer-dan-internet",
+    
+    "relUrl": "/docs/informatika/#jaringan-komputer-dan-internet"
+  },"9": {
+    "doc": "Informatika",
+    "title": "Algoritma",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#algoritma",
+    
+    "relUrl": "/docs/informatika/#algoritma"
+  },"10": {
+    "doc": "Informatika",
+    "title": "Pemrograman",
+    "content": "lorem ipsum dolor . ",
+    "url": "/blog/docs/informatika/#pemrograman",
+    
+    "relUrl": "/docs/informatika/#pemrograman"
   }
 }
