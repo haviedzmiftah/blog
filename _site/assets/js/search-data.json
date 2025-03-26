@@ -2,14 +2,14 @@
     "doc": "Home",
     "title": "Selamat datang di blog saya",
     "content": " ",
-    "url": "/#selamat-datang-di-blog-saya",
+    "url": "/blog/#selamat-datang-di-blog-saya",
     
     "relUrl": "/#selamat-datang-di-blog-saya"
   },"1": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/",
+    "url": "/blog/",
     
     "relUrl": "/"
   }
