@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Haviedz Miftah
 description: Catatan dari haviedz
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://haviedzmiftah.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
