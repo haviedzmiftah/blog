@@ -7,7 +7,9 @@ nav_order: 1
 # Informatika
 {: .no_toc}
 
-Informatika adalah ilmu yang mempelajari konsep komputasi dan teknologi informasi
+Informatika adalah ilmu yang mempelajari tentang pengolahan data, perancangan dan pembuatan sistem berbasis komputasi. Informatika bertujuan untuk memudahkan manusia dalam memproses serta menyajikan informasi yang efektif dan afisien.
+
+
 
 1. TOC
 {:toc}
