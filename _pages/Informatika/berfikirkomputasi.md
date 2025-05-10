@@ -5,7 +5,7 @@ thumbnail: "/assets/img/thumbnail/bk.jpg"
 ---
 
 # Berpikir Komputasional (BK) <br>
-Anggap saja BK ini kayak *superpower* buat mecahin masalah, tapi caranya ala-ala komputer. Bedanya, kamu yang punya akal budi dan kreativitas, jadi pasti lebih unggul dari komputer! 😉.
+Anggap saja BK ini kayak ***superpower*** buat mecahin masalah, tapi caranya ala-ala komputer. Bedanya, kamu yang punya akal budi dan kreativitas, jadi pasti lebih unggul dari komputer! 😉.
 Intinya, Berpikir Komputasional itu adalah sebuah **proses berpikir** yang melibatkan pemecahan masalah dengan cara yang **sistematis, logis, dan terstruktur**, mirip dengan bagaimana komputer memproses informasi. Tapi, jangan salah sangka ya, BK ini bukan cuma buat orang yang mau jadi programmer aja, tapi berguna banget buat kehidupan sehari-hari!
 
 <img src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2022/07/computational-thinking-1024x576.jpg" height="400px" align="center"/>
