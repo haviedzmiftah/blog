@@ -24,4 +24,3 @@ Selain itu, belajar Informatika juga bisa ngasih kamu banyak keuntungan:
 * **Peluang Kerja di Masa Depan** Di masa depan, pasti bakal banyak banget pekerjaan yang butuh orang yang jago di bidang komputer. Jadi, belajar Informatika itu kayak nabung buat masa depan kamu!
 
 **Intinya sih gini** Informatika itu seru banget! Kita belajar tentang teknologi yang ada di sekitar kita, gimana cara kerjanya, dan gimana caranya kita bisa memanfaatkan teknologi itu buat hal-hal yang positif dan kreatif. Jadi, semangat terus ya belajarnya! 😉
-
