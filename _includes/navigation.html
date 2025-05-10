@@ -1,7 +1,7 @@
 <nav id="navigation">
-    {% assign first_level_pages = "" | split, "" %}
-    {% assign second_level_pages = "" | split, "" %}
-    {% assign third_level_pages = "" | split, "" %}
+    {% assign first_level_pages = "" | split: "" %}
+    {% assign second_level_pages = "" | split: "" %}
+    {% assign third_level_pages = "" | split: "" %}
 
     {% for p in site.pages %}
         {%- assign p_tree = p.url | remove_first: "/" | split: "/" -%}
@@ -30,6 +30,10 @@
             {% endif %}
         {% endif %}
     {% endfor %}
+
+    {% assign home_page = first_level_pages | where: "url", "/" | first %}
+    {% assign first_level_pages = first_level_pages | where_exp: "item", "item.url != '/'" %}
+    {% assign first_level_pages = home_page | append: first_level_pages %}
 
     {% assign first_level_pages = first_level_pages | sort: 'url' %}
     {% assign second_level_pages = second_level_pages | sort: 'url' %}
