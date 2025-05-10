@@ -1,7 +1,7 @@
 ---
 title: "Berfikir Komputasi"
 date: "2025-05-10"
-thumbnail: "/assets/img/thumbnail/"
+thumbnail: "/assets/img/thumbnail/bk.jpg"
 ---
 
 # Berpikir Komputasional (BK) <br>
